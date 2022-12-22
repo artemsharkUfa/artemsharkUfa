@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Artemу!
-- 👀 I’m interested in the crypto world, developing and improving my skills
+- 👋 Hi, I’m Artemу! 
+- I am a member of the noderanner team. Our name is WingsNodeTeam (WNT). We are a young, ambitious and actively developing team.
 - 🌱 Currently, I am developing skills in installing and maintaining test networks, at the early stages of various projects. 
 - Not so long ago, a big boost in my development was provided by the near project and participation in stake-wars. 
 - Where I learned how to back up a node, install a bot to track the health of my validator.
