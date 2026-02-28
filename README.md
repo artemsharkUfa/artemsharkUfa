@@ -12,7 +12,7 @@ $20K Mantle Ecosystem Grant Recipient
 
 - **AI Agents** — LLM-powered bots automating sales, customer support, and business operations
 - **Content Automation** — pipelines generating video, posts, and product descriptions at scale
-- **Infrastructure & DevOps** — n8n workflows, Docker/K8s, CI/CD on Yandex Cloud
+- **Infrastructure & DevOps** — Docker/K8s, CI/CD on Yandex Cloud
 - **Digital Products** — web platforms with integrated AI modules, Telegram-first ecosystems
 
 ---
@@ -36,14 +36,14 @@ Telegram bot that converts product photos into professional 10–15 sec videos f
 ### Fitness Agent — AI Personal Trainer
 Personalized workout plans, real-time form correction via video, progress tracking and motivation system — all inside Telegram.  
 `1000+ active users` · `65% retention rate` · `+20% engagement`  
-`n8n` `GPT-3.5` `Supabase` `Computer Vision API` `Yandex Cloud`
+`GPT-3.5` `Supabase` `Computer Vision API` `Yandex Cloud`
 
 ---
 
 ### DO.LYA — Handmade Marketplace Ecosystem
 Full-stack platform for independent makers: web storefront + Telegram bot + trainable AI modules. AI consultant for gift selection, YuKassa payment integration, admin panel with AI-assisted reporting, smart product catalog with SEO automation.  
 `15% conversion` · No marketplace lock-in  
-`n8n` `GPT-4` `Supabase` `Telegram Bot API` `YuKassa`
+`GPT-4` `Supabase` `Telegram Bot API` `YuKassa`
 
 ---
 
@@ -51,7 +51,6 @@ Full-stack platform for independent makers: web storefront + Telegram bot + trai
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?logo=openai&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
