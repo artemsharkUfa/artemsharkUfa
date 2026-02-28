@@ -26,7 +26,7 @@ AI assistant for DeFi market participants: real-time wallet analysis, protocol m
 
 ---
 
-### [Trend Machine](https://tm.fin-tech-ai.ru/) — AI Video Studio for E-commerce
+### Trend Machine — AI Video Studio for E-commerce
 Telegram bot that converts product photos into professional 10–15 sec videos for Wildberries, Ozon, and social media in 15 minutes. Generates covers, descriptions, and hashtags. Supports auto-posting via postmypost.  
 [Telegram channel](https://t.me/trend_machine_chanel)  
 `GPT-4` `Computer Vision` `Telegram Bot API`
